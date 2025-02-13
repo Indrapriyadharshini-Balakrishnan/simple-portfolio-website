@@ -16,7 +16,7 @@ Welcome to my simple yet elegant **Portfolio Website**, built with **HTML & CSS*
 This project serves as my **personal portfolio**, highlighting my work, skills, and ways to connect with me.  
 
 ## 🔗 Live Preview  
-[👉 Check it out here](#) *(Replace with your live link if available!)*  
+[👉 Check it out here](#) *()*  
 
 ## 🛠️ Tech Stack  
 - **HTML5** for structured content  
