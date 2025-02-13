@@ -16,7 +16,7 @@ Welcome to my simple yet elegant **Portfolio Website**, built with **HTML & CSS*
 This project serves as my **personal portfolio**, highlighting my work, skills, and ways to connect with me.  
 
 ## 🔗 Live Preview  
-[👉 Check it out here](#) *()*  
+[👉 Check it out here](#) *(https://indrapriyadharshini-balakrishnan.github.io/simple-portfolio-website/)*  
 
 ## 🛠️ Tech Stack  
 - **HTML5** for structured content  
